@@ -56,3 +56,15 @@ a:hover {
     align-items: center;
     justify-content: center;
 }
+
+.form-box {
+    width: 90%;
+    max-width: 450px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    padding: 50px 60px 70px;
+    text-align: centre;
+}
